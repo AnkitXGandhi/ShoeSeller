@@ -84,6 +84,14 @@ section nav .icons i {
     transition: 0.3s;
 }
 
+section nav .icons i button {
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    font-weight: 550;
+    cursor: pointer;
+}
+
 section nav .icons i:hover {
     color: #c72092;
 }
